@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "$ whois ... on Nov 2023"
+date:   2023-11-03 23:31:48 +0530
+categories: palaash atri me portolio self bio
+---
+
+So, the burning question.. who is Palaash?
+
+Well. My bio usually keeps changing depending on my mood, and I can't really stay on one line of thought for a time. I am hoping this blog might help me start spending more productive hours, putting my thoughts into words, start a bit of a diary, maybe? I don't really know.
+
+That's my answer is for the question "whois Palaash". I don't really know. I don't know what I like, I don't know what I love. I don't really even know what I hate. My opinions are pretty flexible depending on the time of the day. Right now, at almost midnight, I am hyper focused, and I am on a typing frenzy, but maybe I will totally abandon this in 2-3 minutes and delete the site.
+
+I don't really know.
+
+But, let's start with things I know.
+
+I work as an Engineer at L&T Technology Services. I started in June 2021, and was onboarded as a Java developer (even though I wanted to work in .NET, whatever) on a PaaS Cloud Product by a leading software giant in the petrochemical world. Maybe when I finish my term at LTTS, you'd know. I might be bound by a thousand different non-revelation documents (whatever the hell they are called, I don't know), and I can't say who that giant is. But, it is a giant.
+
+So, back to onboarding. I was onboarded as a Java developer on a PaaS Cloud Product, where I was initially tasked to develop cloud-native microservices using Java 11, in December 2021. Currently, I am mostly responsible for owning 5-6 projects under the whole "Platform MSP" banner, projects that are mostly on automation, deployment and Kubernetes cluster validation tools, built on Python 3, YAML and Go templates. After every 2 or 3 months, I will be back to working on developing our cloud SDKs using Java, Python and Node, and creating RESTful endpoints for our platform "admin" microservices. Someone said I am an early "SRE", rather than a proper "SDE", whatever that demarcation means for my future as a developer, I don't really know. I just like to call myself a backend developer, though people really want me to start being a full-stack developer. Might have to finally start learning Angular for that one.
+
+Now I am grossly underpaid for my work, haven't even crossed the tax bracket at INR 5LPA, and the overtime is never paid, but since its a "fully remote job", according to management, I shouldn't really be complaining. I should be going to office if I want overtime to be paid, which is like, 2000 kilometres away from me. So, Management 1, Me 0.
+
+With that minor rant done, let's just go over my education. As like almost 90% of engineers in India today, I did my Bachelor's in Computer Science, from a Tier-3 university called DIT University, in Dehradun, where I learnt everything except what's fundamental to my course, and profession. YouTube saved me. If it wasn't for YouTube or Udemy, I wouldn't have a professional degree.
+
+Okay, I see things are going pretty negative. Let's cheer up a bit. In DIT University, I found my creative edge, and started designing illustrations and posters for college clubs, our college fest "Youthopia", club activities etc. This allowed me to get a couple of terribly paying freelancing design jobs, and a grossly underpaid internship with Dror (now Lythouse) in Gurgaon, where I learnt A LOT, mostly because I had a peer group comprised of brilliant coders, some of who now work at Amazon, Oracle, Biz2Credit, Fello, Swiggy and other product companies. It was the best time of my life, even though I wasn't even being paid anything over than my travelling expenses. Yeah, zero rupees over my travelling expenses.
+
+While in college itself, I was "the guy who everyone knew", you know, a popular person, something which I had never been before in my life. I had always been a shy introvert, and now somehow, EVERYONE knew me. It was a really good time, had a huge friend circle and everything. Learnt a lot about life. Tried dating, failed spectacularly, and it was still fine, got to learn a lot about myself after that.
+
+During placement time, missed my dream opportunity of working on Blockchain with NPCI, rejected Infosys, got rejected by a million other companies, settled with L&T Technology Services, amd then a placement coordinator suddenly realised that my name was selected for a major product placement with Toshiba, and they forgot to inform me for it, and HENCE THEY CANCELLED THAT OFFER ON MY BEHALF, BECAUSE THEY HAD TO HONOR THEIR TIE UP WITH LTTS! Talk about bullshittery.
+
+Anyways. I have moved on after finally penning that frustration up here. 3. Years. Later.
+
+Maybe, that is the time where I would then like to begin with, the burning question: "whois Palaash"?
+
+Well, Palaash is a hardworking, honest person, who likes to believe he has talent, works extremely hard for just a simple affectionate praise, would like to have money (but has none), earn an Audi by the age of 28-29, earn his own flat by the age of 30, driven by motivation (but currently lacks one), and desperately needs a change of pace in life.
+
+Palaash works as an Engineer at L&T Technology Services, develops cloud-native SDKs, microservices and Kubernetes automation and validation tools for a major cloud PaaS product, in Java, Python and Node.js, works with Docker, Kubernetes and Helm charts, on AWS EKS and Azure AKS environments.
+
+Palaash really likes to learn and share more knowledge, likes to think of himself as an influencer, would love to be one, but would also love to work for Microsoft, Red Hat, or Apple some day in an official capacity. He knows that would require a lot of effort, since he has the two terribly infamous flags in the Indian tech circle : `tier 3 college`, and `works in the service industry`, and would really love someone to help him out and refer him to startups to work in an official capacity as a software engineer, just to get that foot-in-the-door in the `product industry` tag.
+
+
+Well, there I am. If you've read till here, Kudos to you, choom. I really love playing video games, so drop me a request on Steam (`palaashatri`), and we can play CS2, Rainbow Six Siege or whatever.
+
+Good night, c ya later!
