@@ -21,7 +21,7 @@ Now, the MUCH better way is to run Linux, and then KVM to handle Docker, and all
 
 The problem with this is, Hyper-V isn't bundled with Windows 11 Home. Its a "Pro" feature, that requires you to shell out another $100 for a license key. As an Indian, I naturally won't do that. Why pay more for stuff you can get for free?
 
-Now you'd say "Hey Palaash, don't be a pirate!", but naw mate, I will not be sailing for seven seas. I will use a totally safe, legal script, using Microsoft's own built in tools, to install Hyper-V on Windows 11 Home, spin an Ubuntu VM, and use it in conjunction with Docker Desktop, ALL FOR FREE!
+Now you'd say "**Hey Palaash, don't be a pirate!**", but naw mate, I will not be sailing for seven seas. I will use a **totally safe, legal script**, using Microsoft's own built in tools, to install Hyper-V on Windows 11 Home, spin an Ubuntu VM, and use it in conjunction with Docker Desktop, **ALL FOR FREE**!
 
 #### So, how do we progress?
 
@@ -50,8 +50,8 @@ CD  %USERPROFILE%/Desktop
 
 > If you have OneDrive enabled for Desktop, `Desktop` will be at `%USERPROFILE%\OneDrive\Desktop`. Substitute the value accordingly.
 
-- Wait for the script to execute, and once it executes and closes, restart your computer. You'll get an "Installing Updates..." message from Windows.
-- Once it reboots, check application list for Hyper-V. If it is present, then voila, you have installed Hyper-V on Windows Home!
+- Wait for the script to execute, and once it executes and closes, restart your computer. You'll get an "**Installing Updates...**" message from Windows.
+- Once it reboots, check application list for Hyper-V. If it is present, then voila, **you have installed Hyper-V on Windows Home!**
 
 #### Why this works?
 
