@@ -15,13 +15,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/palaasha/), [Github](https://g
 - **Frameworks & Middleware** : Spring MVC, Spring Boot, Flask, Express.js
 - **Databases** : MongoDB, MySQL, PostgreSQL, Firebase
 
-<details>
-
-<summary>
-
 ### Experience
-
-</summary>
 
 #### Engineer - L&T Technology Services (Oct 2022-Present)
 
@@ -97,14 +91,7 @@ Tools used:
 
 Worked with different NGOs to create opportunities for Incoming Global Volunteers working in Dehradun.
 
-</details>
-
-<details>
-<summary>
-
 ### Education
-
-</summary>
 
 #### BTech. (Bachelor of Technology), Computer Science - DIT University (2017-2021)
 
@@ -125,5 +112,3 @@ Worked with different NGOs to create opportunities for Incoming Global Volunteer
   - Mathematics
   - Informatics Practices
   - Hindustani Music (Vocal) [Optional]
-
-</details>
