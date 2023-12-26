@@ -4,24 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Palaash. I work as an Engineer @ L&T Technology Services, working on developing cloud-native SDKs and microservices using Java, Node.js and Python 3.
+Hi, I am **Palaash**. I work as an **Engineer @ L&T Technology Services**, working on developing cloud-native SDKs and microservices using Java, Node.js and Python 3.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/palaasha/), [Github](https://github.com/palaashatri/) & [Twitter](https://twitter.com/palaashatri/)
 
-### **Skills**
+### Skills
 
 - **Languages** : Java, JavaScript, Python 3, Bash scripting, Go
 - **Tools** : Docker, Kubernetes, Jenkins, Git, Linux, Helm, Node.js
 - **Frameworks & Middleware** : Spring MVC, Spring Boot, Flask, Express.js
 - **Databases** : MongoDB, MySQL, PostgreSQL, Firebase
 
-### **Experience**
+### Experience
 
 #### Engineer - L&T Technology Services (Oct 2022-Present)
 
 Currently working as an Engineer in Digital Products and Process Software, working directly with the client as a Cloud PaaS Backend Engineer. 
 
-##### Goals Achieved
+Goals Achieved:
 
 1. Improved documentation and removed major technical debt for managed services and Java, Python and Node.js SDKs by upgrading platform MSP frameworks from Node.js 8 to 16, Python 3.6 to 3.11 & Java 11 to 17 provided by platform.
 2. Developed and shipped managed service that allows users to register their deployed applications with New Relic/PowerBI, utilising helm charts for deployment using a REST architecture
@@ -32,7 +32,7 @@ Currently working as an Engineer in Digital Products and Process Software, worki
 7. Developed and shipped a feature implementing Istio sidecar proxies inside our proprietary helm charts.
 8. Migrated architecture and microservices pipelines from Jenkins to Gitlab CI.
 
-##### Responsibilities
+Responsibilities:
 
 1. Developing and maintaining RESTful managed microservices using Python3, Java 11, Node.js 16.
 2. Developing and maintaining K8s cluster validation/testing microservice using Flask.
@@ -67,6 +67,8 @@ Technologies worked on:
 
 Helped in creation of online store, and an enterprise-level WebRTC client with Teams' Rooms-like functionality.
 
+Responsibilites :
+
 - Working on front end web development (HTML5, CSS3, JavaScript, Bootstrap, jQuery)
 - Working on back end web development (Flask, Node.js)
 - Working on databases such as Firebase Suite, MySQL, PostgreSQL, etc.
@@ -79,7 +81,7 @@ capacitor framework
 Worked as a UI/UX Developer at DROR Labs, designing Android/iOS application as an intern.
 My work as a UX Developer consisted of designing and developing fluid, consistent and user friendly UI, application and UX Workflow for multiple modules, as well as initial on boarding screens for the DROR Safety App available on Android and iOS.
 
-**Tools used:**
+Tools used:
 
 - Adobe Photoshop, Adobe XD, Adobe Illustrator, Adobe After Effects
 - Figma
@@ -89,7 +91,7 @@ My work as a UX Developer consisted of designing and developing fluid, consisten
 
 Worked with different NGOs to create opportunities for Incoming Global Volunteers working in Dehradun.
 
-### **Education**
+### Education
 
 #### BTech. (Bachelor of Technology), Computer Science - DIT University (2017-2021)
 
@@ -100,11 +102,11 @@ Worked with different NGOs to create opportunities for Incoming Global Volunteer
 
 #### High School (10+2), CBSE - Delhi Public School Ghaziabad
 
-- Grade: 85.8%
-- Activities and societies: School Choir, Instrumental Team, Presentation Team
-- Score: 85.8%
-- Board: CBSE
-- Subjects:
+- **Grade:** 85.8%
+- **Activities and societies:** School Choir, Instrumental Team, Presentation Team
+- **Score:** 85.8%
+- **Board:** CBSE
+- **Subjects:**
   - Physics
   - Chemistry
   - Mathematics
