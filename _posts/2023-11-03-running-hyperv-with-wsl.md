@@ -2,7 +2,6 @@
 layout: post
 title:  "Running Hyper-V with WSL, on Windows 11 Home"
 date:   2023-11-03 23:55:00 +0530
-categories: windows hyper-v linux virtualization hypervisor virtualbox docker kubernetes wsl 
 ---
 
 #### A small introduction
