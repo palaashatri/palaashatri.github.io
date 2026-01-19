@@ -550,28 +550,33 @@
 
         @media (max-width: 768px) {
             body {
-                overflow: visible !important;
+                overflow-y: auto !important;
                 overflow-x: hidden !important;
                 height: auto !important;
             }
 
             .slides-container {
-                overflow: visible !important;
+                overflow-y: auto !important;
                 overflow-x: hidden !important;
                 height: auto !important;
                 position: static !important;
+                display: flex !important;
+                flex-direction: column !important;
             }
 
             section {
-                position: relative !important;
+                position: static !important;
                 top: auto !important;
                 left: auto !important;
-                transform: translateY(0) !important;
+                transform: none !important;
                 opacity: 1 !important;
                 padding: 20px 10px;
-                min-height: auto;
-                height: auto;
+                min-height: 100vh !important;
+                height: auto !important;
                 z-index: auto !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
             }
 
             section.active {
