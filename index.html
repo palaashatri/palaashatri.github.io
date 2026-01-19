@@ -883,6 +883,7 @@
         // Mouse wheel scroll
         let lastWheelTime = 0;
         window.addEventListener('wheel', (e) => {
+            if (isMobile()) return; // Disable on mobile
             const now = Date.now();
             if (now - lastWheelTime < 1000) return; // Debounce
             lastWheelTime = now;
@@ -896,6 +897,7 @@
 
         // Keyboard navigation
         window.addEventListener('keydown', (e) => {
+            if (isMobile()) return; // Disable on mobile
             if (e.key === 'ArrowDown') goToSection(currentSection + 1);
             if (e.key === 'ArrowUp') goToSection(currentSection - 1);
         });
@@ -903,10 +905,12 @@
         // Touch swipe support
         let touchStartY = 0;
         document.addEventListener('touchstart', (e) => {
+            if (isMobile()) return; // Disable on mobile
             touchStartY = e.touches[0].clientY;
         });
 
         document.addEventListener('touchend', (e) => {
+            if (isMobile()) return; // Disable on mobile
             const touchEndY = e.changedTouches[0].clientY;
             const diff = touchStartY - touchEndY;
 
