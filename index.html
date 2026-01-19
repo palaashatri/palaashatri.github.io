@@ -549,13 +549,26 @@
 
 
         @media (max-width: 768px) {
+            body {
+                overflow: visible !important;
+                overflow-x: hidden !important;
+                height: auto !important;
+            }
+
+            .slides-container {
+                overflow: visible !important;
+                overflow-x: hidden !important;
+                height: auto !important;
+                position: static !important;
+            }
+
             section {
-                position: relative;
-                top: auto;
-                left: auto;
+                position: relative !important;
+                top: auto !important;
+                left: auto !important;
                 transform: translateY(0) !important;
                 opacity: 1 !important;
-                padding: 30px 12px;
+                padding: 20px 10px;
                 min-height: auto;
                 height: auto;
                 z-index: auto !important;
@@ -594,7 +607,22 @@
             .subtitle { font-size: 11px; margin-bottom: 12px; }
 
             .glass {
-                padding: 15px 12px;
+                padding: 12px 10px;
+                border: 1px solid #00aa00;
+                box-shadow: none;
+                max-width: 100%;
+            }
+
+            .glass:hover {
+                transform: none;
+            }
+
+            .contact-link {
+                padding: 10px 16px;
+                font-size: 0.8rem;
+                width: 100%;
+                text-align: center;
+                display: block;
             }
 
             .experience-item {
@@ -632,6 +660,7 @@
             .contact-links {
                 flex-direction: column;
                 gap: 8px;
+                width: 100%;
             }
 
             .scroll-indicator {
@@ -802,8 +831,13 @@
         const sections = document.querySelectorAll('section');
         let currentSection = 0;
         let isTransitioning = false;
+        
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
 
         function goToSection(index) {
+            if (isMobile()) return; // Disable navigation on mobile
             if (isTransitioning || index < 0 || index >= sections.length) return;
             if (index === currentSection) return;
 
@@ -885,9 +919,19 @@
             anchor.addEventListener('click', function(e) {
                 e.preventDefault();
                 const targetId = this.getAttribute('href').slice(1);
-                const targetIndex = Array.from(sections).findIndex(s => s.id === targetId);
-                if (targetIndex !== -1) {
-                    goToSection(targetIndex);
+                
+                if (isMobile()) {
+                    // On mobile, use native scrollIntoView
+                    const target = document.getElementById(targetId);
+                    if (target) {
+                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                } else {
+                    // On desktop, use deck navigation
+                    const targetIndex = Array.from(sections).findIndex(s => s.id === targetId);
+                    if (targetIndex !== -1) {
+                        goToSection(targetIndex);
+                    }
                 }
             });
         });
